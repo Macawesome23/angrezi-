@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/angrezi-/static/css/main.316567ef.chunk.css",
+    "main.js": "/angrezi-/static/js/main.87f91a72.chunk.js",
+    "main.js.map": "/angrezi-/static/js/main.87f91a72.chunk.js.map",
+    "runtime-main.js": "/angrezi-/static/js/runtime-main.84274178.js",
+    "runtime-main.js.map": "/angrezi-/static/js/runtime-main.84274178.js.map",
+    "static/css/2.818011ed.chunk.css": "/angrezi-/static/css/2.818011ed.chunk.css",
+    "static/js/2.be56b312.chunk.js": "/angrezi-/static/js/2.be56b312.chunk.js",
+    "static/js/2.be56b312.chunk.js.map": "/angrezi-/static/js/2.be56b312.chunk.js.map",
+    "static/js/3.a23c47de.chunk.js": "/angrezi-/static/js/3.a23c47de.chunk.js",
+    "static/js/3.a23c47de.chunk.js.map": "/angrezi-/static/js/3.a23c47de.chunk.js.map",
+    "index.html": "/angrezi-/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/angrezi-/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.316567ef.chunk.css.map": "/angrezi-/static/css/main.316567ef.chunk.css.map",
+    "static/js/2.be56b312.chunk.js.LICENSE.txt": "/angrezi-/static/js/2.be56b312.chunk.js.LICENSE.txt",
+    "static/media/logo.bf2ae4eb.png": "/angrezi-/static/media/logo.bf2ae4eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84274178.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.be56b312.chunk.js",
+    "static/css/main.316567ef.chunk.css",
+    "static/js/main.87f91a72.chunk.js"
+  ]
+}
